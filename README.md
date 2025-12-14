@@ -57,17 +57,9 @@ plt.title('Residual errors')
 ##method call for showing the plot
 plt.show()
 
-
-
-
-
 ```
 ## Output:
 <img width="1119" height="836" alt="Screenshot 2025-12-14 143422" src="https://github.com/user-attachments/assets/dfc784b5-92e9-473b-947b-7fc32df868a6" />
-
-### Insert your output
-
-<br>
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
